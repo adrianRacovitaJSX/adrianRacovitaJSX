@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **any project I can!**
 
-- 👨‍💻 All of my projects are available at [aracovita.dev](aracovita.dev)
+- 👨‍💻 All of my projects are available at [aracovita.dev](https://aracovita.dev)
 
-- 📝 I regularly write articles on [aracovita.dev/blog](aracovita.dev/blog)
+- 📝 I regularly write articles on [aracovita.dev/blog](https://aracovita.dev/blog)
 
 - 💬 Ask me about **ReactJS, JavaScript, TailwindCSS, TypeScript, CSS, HTML, PHP...**
 
